@@ -1,5 +1,17 @@
 <h1 align="center">Hi 👋, I'm Dinuth Induwara</h1>
 <h3 align="center">Passionate Full-Stack Developer & Problem Solver 🚀</h3>
+<div align="center">
+
+  <!-- Gradient Typing Animation -->
+  <img 
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&pause=1000&color=FF6B6B&center=true&vCenter=true&width=600&height=60&lines=🚀+Full+Stack+Developer;🌐+Open+Source+Enthusiast;📚+Always+Learning+New+Things" 
+    alt="Typing SVG" />
+
+  <!-- Stylish Divider -->
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" />
+
+</div>
+
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=dinuthinduwara&label=Profile%20views&color=0e75b6&style=flat" alt="dinuthinduwara" /> </p>
 

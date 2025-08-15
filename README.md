@@ -1,10 +1,11 @@
 <h1 align="center">Hi 👋, I'm Dinuth Induwara</h1>
 <h3 align="center">Passionate Full-Stack Developer & Problem Solver 🚀</h3>
+
 <div align="center">
 
   <!-- Gradient Typing Animation -->
   <img 
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&pause=1000&color=FF6B6B&center=true&vCenter=true&width=600&height=60&lines=🚀+Full+Stack+Developer;🌐+Open+Source+Enthusiast;📚+Always+Learning+New+Things" 
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=70A5FD&center=true&vCenter=true&width=650&lines=🚀+Full+Stack+Developer;🌐+Open+Source+Enthusiast;📚+Always+Learning+New+Things" 
     alt="Typing SVG" />
 
   <!-- Stylish Divider -->
@@ -12,48 +13,67 @@
 
 </div>
 
-
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=dinuthinduwara&label=Profile%20views&color=0e75b6&style=flat" alt="dinuthinduwara" /> </p>
-
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dinuthinduwara" alt="dinuthinduwara" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/dinuth15" target="blank"><img src="https://img.shields.io/twitter/follow/dinuth15?logo=twitter&style=for-the-badge" alt="dinuth15" /></a> </p>
-
--   🔭 I’m currently working on [A high-performance m3u8 video streaming & Telegram uploader tool](https://github.com/DinuthInduwara/Go-M3u8-Telegram-Uploader)
-
--   🌱 I’m currently learning **Next.js, Rust, Go concurrency patterns, Redis optimization, and AI-driven animations**
-
--   💬 Ask me about **React, Vue, Go, and Python**
-
--   📫 How to reach me **induwaradinuth.contact@gmail.com**
-
--   ⚡ Fun fact **I can switch from writing high-performance Go code to building romantic, animated web pages without changing my playlist.**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://codepen.io/dinuthog" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="dinuthog" height="30" width="40" /></a>
-<a href="https://dev.to/dinuthinduwara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="dinuthinduwara" height="30" width="40" /></a>
-<a href="https://twitter.com/dinuth15" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dinuth15" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/16583433" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="16583433" height="30" width="40" /></a>
-<a href="https://codesandbox.com/dinuthinduwara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="dinuthinduwara" height="30" width="40" /></a>
-<a href="https://fb.com/dinuth.induwara.3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="dinuth.induwara.3" height="30" width="40" /></a>
-<a href="https://instagram.com/dinuth.og" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dinuth.og" height="30" width="40" /></a>
+<p align="center"> 
+  <img src="https://komarev.com/ghpvc/?username=dinuthinduwara&label=Profile%20views&color=70a5fd&style=flat" alt="dinuthinduwara" /> 
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="center"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://bulma.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/gilbarbara/logos/804dc257b59e144eaca5bc6ffd16949752c6f789/logos/bulma.svg" alt="bulma" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.electronjs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="electron" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=dinuthinduwara&theme=tokyonight&margin-w=10&margin-h=10&row=1" alt="dinuthinduwara trophies" />
+  </a>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dinuthinduwara&show_icons=true&locale=en&layout=compact" alt="dinuthinduwara" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dinuthinduwara&show_icons=true&locale=en&include_all_commits=true&count_private=true" alt="dinuthinduwara" /></p>
+### 🚀 About Me
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dinuthinduwara&" alt="dinuthinduwara" /></p>
+- 🔭 I’m currently working on [**A high-performance m3u8 video streaming & Telegram uploader tool**](https://github.com/DinuthInduwara/Go-M3u8-Telegram-Uploader)  
+- 🌱 I’m currently learning **Next.js, Rust, Go concurrency patterns, Redis optimization, and AI-driven animations**  
+- 💬 Ask me about **React, Vue, Go, and Python**  
+- 📫 How to reach me: **induwaradinuth.contact@gmail.com**  
+- ⚡ Fun fact: **I can switch from writing high-performance Go code to building romantic, animated web pages without changing my playlist.**  
+
+---
+
+### 🌐 Connect with Me
+<p align="center">
+<a href="https://codepen.io/dinuthog" target="blank"><img src="https://skillicons.dev/icons?i=codepen" height="40"/></a>
+<a href="https://dev.to/dinuthinduwara" target="blank"><img src="https://skillicons.dev/icons?i=devto" height="40"/></a>
+<a href="https://twitter.com/dinuth15" target="blank"><img src="https://skillicons.dev/icons?i=twitter" height="40"/></a>
+<a href="https://stackoverflow.com/users/16583433" target="blank"><img src="https://skillicons.dev/icons?i=stackoverflow" height="40"/></a>
+<a href="https://fb.com/dinuth.induwara.3" target="blank"><img src="https://www.logo.wine/a/logo/Facebook/Facebook-f_Logo-White-Logo.wine.svg" height="40"/></a>
+<a href="https://instagram.com/dinuth.og" target="blank"><img src="https://skillicons.dev/icons?i=instagram" height="40"/></a>
+</p>
+
+---
+
+### 🛠️ Languages & Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,ts,react,nextjs,vue,redux,python,go,rust,java,php,nodejs,express,flask,django,mysql,sqlite,mongodb,redis,docker,linux,git,github,postman,bash,nginx,heroku,spring,selenium" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dinuthinduwara&show_icons=true&theme=tokyonight&locale=en&layout=compact" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=dinuthinduwara&show_icons=true&locale=en&theme=tokyonight&count_private=true&include_all_commits=true" height="160"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dinuthinduwara&theme=tokyonight" height="160"/>
+</p>
+
+---
 
 ## 📈 Contribution Graph
-
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=DinuthInduwara&theme=tokyo-night&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" alt="Contribution Graph" />
 </div>
 
+---
+
 ## 🐍 Contribution Snake
-![GitHub Snake Dark](https://raw.githubusercontent.com/DinuthInduwara/snk/refs/heads/manual-run-output/only-svg/github-contribution-grid-snake-dark.svg)
+<div align="center">
+  <img src="https://raw.githubusercontent.com/DinuthInduwara/snk/refs/heads/manual-run-output/only-svg/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</div>

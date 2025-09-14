@@ -19,7 +19,7 @@
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=dinuthinduwara&theme=tokyonight&margin-w=10&margin-h=10&row=1" alt="dinuthinduwara trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=dinuthinduwara&theme=tokyonight&margin-w=10&margin-h=10&row=1" alt="dinuthinduwara trophies">
   </a>
 </p>
 
